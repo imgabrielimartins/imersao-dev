@@ -28,7 +28,7 @@ base-conhecimento/
 
 1.  Clone este repositório:
     ```bash
-    git clone <url-do-seu-repositorio>
+    git clone <https://github.com/imgabrielimartins/imersao-dev.git>
     ```
 2.  Navegue até a pasta do projeto.
 3.  Abra o arquivo `index.html` em seu navegador de preferência.
